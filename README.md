@@ -47,6 +47,10 @@
 </code>
 </pre>
 
-## Missile & Palent
+### Missile & Palent class
 
 to create one object with location and move method.
+
+
+### image 
+<img src="https://user-images.githubusercontent.com/57412714/76819023-7a7b7000-684a-11ea-9d36-577ef3b86522.jpg" width="300px"></img>
